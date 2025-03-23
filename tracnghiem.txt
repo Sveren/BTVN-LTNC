@@ -1,0 +1,13 @@
+câu 1: ii. p = &n;
+
+câu 2: iii. p1 = p2;
+
+câu 3: ii. Phép cộng trừ thêm con trỏ kiểu int;
+
+câu 4: iii. Tất cả các phép toán với các con trỏ ở cùng mảng(Trong giới hạn mảng);
+
+câu 5: iv. Tất cả các phát biểu trên
+
+câu 6: iv. void bubble(int [], const int, bool(* (int,int)));
+
+câu 7: iii. 2 3 3
